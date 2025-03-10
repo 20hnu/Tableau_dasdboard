@@ -31,6 +31,7 @@ The dashboard consists of six visualizations:
    
 6. **Revenue for 2016** (Line Graph)  
    - Tracks revenue trends over the weeks of **2016**.
+![Airbnb Seattle Dashboard]([https://your-image-url.com/dashboard.png](https://github.com/20hnu/Tableau_dasdboard/blob/main/Dashboard%201.png))
 
 ## Usage
 This dashboard provides a comprehensive analysis of pricing, availability, and user engagement trends in the Seattle Airbnb market. It can be useful for hosts, travelers, and analysts looking to understand market behavior over time.
